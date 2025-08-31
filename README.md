@@ -7,25 +7,25 @@
 ### 1）使用`=`和`-`标记一级和二级标签  
 
 >一级标题
->`=====`
+>`=====`  
 >二级标题
 >`-----`  
 
 效果：  
 
 > 一级标题
->=====
+>=====  
 >
 >二级标题
 >-----  
 
 ### 2）使用`#`表示1-6级标题  
 
->\# 一级标题
->\## 二级标题
->\### 三级标题
->\#### 四级标题
->\##### 五级标题
+>\# 一级标题  
+>\## 二级标题  
+>\### 三级标题  
+>\#### 四级标题  
+>\##### 五级标题  
 >\###### 六级标题  
 
 效果：  
@@ -153,15 +153,16 @@ print(
 ## 六.图片  
 
 **1）使用markdown语法插入：**  
-*添加图片的形式和链接相似，只需在链接的基础上前方加一个`！`。*
+*添加图片的形式和链接相似，只需在链接的基础上前方加一个`！`。*  
+
 `![Boy.jpg](https://github.com/Huang-823/Basic-Learning-of-Markdown/blob/main/FILE/Boy.jpg)`  
 
-![Boy](https://github.com/Huang-823/Basic-Learning-of-Markdown/blob/main/FILE/Boy.jpg)
+![Boy.jpg](https://github.com/Huang-823/Basic-Learning-of-Markdown/blob/main/FILE/Boy.jpg)  
 
 **2）使用图床插入：**  
-上传图片至图床，会获得一个markdown地址，粘贴在md文档里即可查看。例如：  
+上传图片至[图床](https://imgse.com/)，会获得一个markdown地址，粘贴在md文档里即可查看。例如：  
+
 `[![pELYCZD.md.jpg](https://s21.ax1x.com/2025/05/07/pELYCZD.md.jpg)](https://imgse.com/i/pELYCZD)`  
-[图床网址](https://imgse.com/)  
 
 [![pELYCZD.md.jpg](https://s21.ax1x.com/2025/05/07/pELYCZD.md.jpg)](https://imgse.com/i/pELYCZD)
 
@@ -176,9 +177,9 @@ print(
 
 ## 七.Todolist  
 
-> \- [x] 事项一
-> \- [ ] 事项二
-> \- [ ] 事项三  
+> \- [x] 事项一  
+> \- [ ] 事项二  
+> \- [ ] 事项三   
 
 效果：  
 
