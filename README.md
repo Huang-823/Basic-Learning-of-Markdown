@@ -154,6 +154,9 @@ print(
 
 **1）使用markdown语法插入：**  
 *添加图片的形式和链接相似，只需在链接的基础上前方加一个`！`。*
+`![Boy.jpg](https://github.com/Huang-823/Basic-Learning-of-Markdown/blob/main/FILE/Boy.jpg)`  
+
+![Boy](https://github.com/Huang-823/Basic-Learning-of-Markdown/blob/main/FILE/Boy.jpg)
 
 **2）使用图床插入：**  
 上传图片至图床，会获得一个markdown地址，粘贴在md文档里即可查看。例如：  
